@@ -3,10 +3,10 @@
   <v-app>
   <v-container fluid>
     <v-row>
-      <v-col class=" col-2 deep-orange lighten-5"><SideBar></SideBar></v-col>
-      <v-col class="col-4"><TodayPlan></TodayPlan></v-col>
-      <v-col class="col-5 deep-orange lighten-5"><MonthlyPinned></MonthlyPinned></v-col>
-      <v-col  class="col-1 deep-orange lighten-5"><UserProfile></UserProfile></v-col>
+      <v-col class=" col-md-2 deep-orange lighten-5"><SideBar></SideBar></v-col>
+      <v-col class="col-md-4 "><TodayPlan></TodayPlan></v-col>
+      <v-col class="col-md-5 deep-orange lighten-5"><MonthlyPinned></MonthlyPinned></v-col>
+      <v-col  class="col-md-1 deep-orange lighten-5"><UserProfile></UserProfile></v-col>
     </v-row>
     
   </v-container></v-app></div>
